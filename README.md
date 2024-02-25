@@ -21,20 +21,26 @@ In this project , an ETL pipeline has to built using the following the steps
 6)Performing the analysis queries.
 
 
-** DATASET **
+**DATASET**
 
 Source of the dataset in Kaggle : https://www.kaggle.com/datasets/sparnord/danish-atm-transactions
 
 
-** Target Dimension model Schema **
+**Target Dimension model Schema**
 
 
 <img width="610" alt="Screenshot 2024-02-23 230722" src="https://github.com/Smr-V/Spar-Nord-Bank-ETL-Pipeline/assets/47864256/bf8b3e18-9faa-4858-a070-b3ea383bf26b">
 
 
 
-** ARCHITECTURE DIAGRAM OF THE ETL PIPELINE **
 
 
 
-![Architecture Dagram](https://github.com/Smr-V/Spar-Nord-Bank-ETL-Pipeline/assets/47864256/a5e537ff-cdde-42b6-9231-bf4e4c6658c4)
+
+**ARCHITECTURE DIAGRAM OF THE ETL PIPELINE**
+
+
+
+
+
+![Architecture Diagram](https://github.com/Smr-V/Spar-Nord-Bank-ETL-Pipeline/assets/47864256/9e0d1a0d-d17e-498a-bcb8-e1a42e68eb2e)
