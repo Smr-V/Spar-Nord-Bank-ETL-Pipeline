@@ -12,7 +12,7 @@ In this project , an ETL pipeline has to built using the following the steps
 
 2)Transforming the transactional data according to the given target schema using PySpark. 
 
-3)This transformed data is to be loaded to an S3 bucket.
+3)This transformed data is to be loaded to  S3 buckets.
 
 4)Creating the Redshift tables according to the given schema.
 
